@@ -51,7 +51,7 @@ public class UsedCarsSearchPageActions {
 	public void selectPrice(String price)
 	{
 		//SeleniumDriver.getDriver().findElement(By.xpath(".//*[@id='price-max']")).click();
-		SeleniumDriver.getDriver().findElement(By.xpath(".//*[@id='price-max']")).click();
+		SeleniumDriver.getDriver().findElement(By.xpath(".//*[@id='priceTo']")).click();
 		Select selectPrice=new Select(usedCarSearchPageLocators.priceList);
 		List<WebElement> list=selectPrice.getOptions();
 		for(WebElement s:list)
