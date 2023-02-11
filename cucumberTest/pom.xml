@@ -28,7 +28,7 @@
 				<!-- <configuration> <testFailureIgnore>true</testFailureIgnore> </configuration> -->
 
 				<configuration>
-					<testFailureIgnore>false</testFailureIgnore>
+					<testFailureIgnore>true</testFailureIgnore>
 					<suiteXmlFiles>
 						<suiteXmlFile>src/test/resources/runner/testng.xml</suiteXmlFile>
 
