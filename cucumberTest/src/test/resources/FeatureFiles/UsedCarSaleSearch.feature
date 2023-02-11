@@ -11,7 +11,7 @@ Feature: Acceptance testing to validate Search Cars Page is working.
     And click on submenu Used Cars Search link
     And select carMaker from AnyMake dropdown
       | carMaker |
-      | AUDI     |
+      | Audi     |
     And select  car model
       | carModel |
       | A4       |

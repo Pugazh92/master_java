@@ -15,7 +15,7 @@ public class UsedCarSearchPageLocators {
 	@FindBy(how=How.XPATH,using=".//*[@id='locations']")
 	public WebElement selectLocation;
 	
-	@FindBy(how=How.XPATH,using=".//*[@id='price-max']")
+	@FindBy(how=How.XPATH,using=".//*[@id='priceTo']")
 	public WebElement priceList;
 	
 	@FindBy(how=How.XPATH,using=".//*[@id='search-submit']")
