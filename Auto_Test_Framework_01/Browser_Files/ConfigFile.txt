@@ -1,0 +1,12 @@
+browserName = GC
+applicationURL  = http://192.168.192.184/
+username = admin
+password = Alert1234
+
+Email Configurations
+senderEmailId = alertenterprise.automation@outlook.com
+senderEmailPwd = Alert1234
+email_recipient = pugazhendhi.ravi@alertenterprise.com
+
+
+

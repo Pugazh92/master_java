@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-29T20:38:17 IST" name="Default suite" finished-at="2023-03-29T20:40:05 IST" duration-ms="108435">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T20:38:17 IST" name="Default test" finished-at="2023-03-29T20:40:05 IST" duration-ms="108435">
+      <class name="webDriverTestCases.Application_Sanity">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:webDriverTestCases.Application_Sanity@23bff419]" started-at="2023-03-29T20:38:17 IST" name="beforeSuite" finished-at="2023-03-29T20:38:26 IST" duration-ms="9155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="commonPage(java.lang.reflect.Method)[pri:0, instance:webDriverTestCases.Application_Sanity@23bff419]" started-at="2023-03-29T20:38:26 IST" name="commonPage" finished-at="2023-03-29T20:38:26 IST" duration-ms="207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void webDriverTestCases.Application_Sanity.Login_Logout_Test() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonPage -->
+        <test-method signature="Login_Logout_Test()[pri:1, instance:webDriverTestCases.Application_Sanity@23bff419]" started-at="2023-03-29T20:38:26 IST" name="Login_Logout_Test" finished-at="2023-03-29T20:40:04 IST" duration-ms="97462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Logout_Test -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:webDriverTestCases.Application_Sanity@23bff419]" started-at="2023-03-29T20:40:04 IST" name="afterMethod" finished-at="2023-03-29T20:40:05 IST" duration-ms="1525" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_Logout_Test status=SUCCESS method=Application_Sanity.Login_Logout_Test()[pri:1, instance:webDriverTestCases.Application_Sanity@23bff419] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:webDriverTestCases.Application_Sanity@23bff419]" started-at="2023-03-29T20:40:06 IST" name="quitDriver" finished-at="2023-03-29T20:40:08 IST" duration-ms="2184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- webDriverTestCases.Application_Sanity -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

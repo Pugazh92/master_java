@@ -1,0 +1,42 @@
+browserName = GC
+applicationURL  = http://dcicustom.onebcg.com
+paymentURL = http://dcipayroll.onebcg.com/sweepin/processsweepin
+
+username = dci.support
+password = Kobe2001
+
+Custom_Fields_TC001	=	Yes
+Custom_Fields_TC002	=	Yes
+Custom_Fields_TC003	=	Yes
+Custom_Fields_TC004	=	Yes
+Custom_Fields_TC005	=	Yes
+Custom_Fields_TC006	=	Yes
+Custom_Fields_TC007	=	Yes
+Custom_Fields_TC008	=	Yes
+Custom_Fields_TC009	=	Yes
+Custom_Fields_TC010	=	Yes
+Custom_Fields_TC011	=	Yes
+Custom_Fields_TC012	=	Yes
+Custom_Fields_TC013	=	Yes
+Notes_Enhancement_TC001		=	Yes
+Notes_Enhancement_TC002		=	Yes
+Notes_Enhancement_TC003		=	Yes
+Notes_Enhancement_TC004		=	Yes
+Notes_Enhancement_TC005		=	Yes
+Notes_Enhancement_TC006		=	Yes
+Notes_Enhancement_TC007		=	Yes
+Notes_Enhancement_TC008		=	Yes
+Notes_Enhancement_TC009		=	Yes
+Notes_Enhancement_TC010		=	Yes
+Notes_Enhancement_TC011		=	Yes
+Notes_Enhancement_TC012		=	Yes
+Notes_Enhancement_TC013		=	Yes
+Notes_Enhancement_TC014		=	Yes
+Notes_Enhancement_TC015		=	Yes
+Notes_Enhancement_TC016		=	Yes
+Notes_Enhancement_TC017		=	Yes
+Notes_Enhancement_TC018		=	Yes
+Notes_Enhancement_TC019		=	Yes
+
+
+
